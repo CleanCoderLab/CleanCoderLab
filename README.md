@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dead Pool
+# 👋, Hey there!
 
 🚀 Full Stack Developer | .NET | Angular | Microservices  
 💼 Building real-world HRMS & Clean Architecture projects  
@@ -6,10 +6,10 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on **HRMS Microservices**
+- 🔭 Currently working on **Microservices**
 - 🌱 Learning **CQRS, MediatR, Docker**
 - 💬 Ask me about **.NET Core, SQL, Angular**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **tanmay.p.sonawane@gmail.com**
 
 ---
 
@@ -27,5 +27,5 @@
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourwebsite.com
+- LinkedIn: https://www.linkedin.com/in/sonawanetanmay/
+- Portfolio: NA
