@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Dead Pool
 
-<!--
-**CleanCoderLab/CleanCoderLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | .NET | Angular | Microservices  
+💼 Building real-world HRMS & Clean Architecture projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔭 Currently working on **HRMS Microservices**
+- 🌱 Learning **CQRS, MediatR, Docker**
+- 💬 Ask me about **.NET Core, SQL, Angular**
+- 📫 Reach me at: **your@email.com**
+
+---
+
+## 🛠️ Tech Stack
+- **Backend:** .NET Core, Web API, EF Core
+- **Frontend:** Angular, CoreUI
+- **Database:** SQL Server, MongoDB
+- **DevOps:** Docker, GitHub Actions
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://yourwebsite.com
