@@ -1,7 +1,7 @@
 # 👋, Hey there!
 
 🚀 Full Stack Developer | .NET | Angular | Microservices  
-💼 Building real-world HRMS & Clean Architecture projects  
+💼 Building real-world Clean Architecture projects  
 
 ---
 
